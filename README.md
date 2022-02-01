@@ -1,2 +1,3 @@
-# PHP
- Repósitorio destinado a compartilhamento de códigos fontes de PHP
+# Meu Repósitario de PHP
+
+ Repósitorio destinado a compartilhamento de programação de PHP.
