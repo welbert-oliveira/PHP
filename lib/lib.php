@@ -3,7 +3,7 @@
 ////////////////////////////////////INFORMAÇÕES DE DESENVOLVIMENTO/////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 ////                                                                                               ////
-////	NOME ARQUIVO.....................: LIB.PHP   		                                   ////
+////	NOME ARQUIVO.....................: LIB.PHP   		                                       ////
 ////	OBJETIVO.........................: BIBLIOTECA DE CONVERSORES PARA SISTEMAS EM PHP          ////
 ////	DESENVOLVIDO POR.................: WELBERT H. OLIVEIRA                                     ////
 ////	E-MAIL...........................: welbert.oliveira@gmail.com                              ////
